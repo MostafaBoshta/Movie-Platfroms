@@ -46,6 +46,6 @@ The project's architecture consists of the following components:
 - **Python**: For data extraction and processing scripts.
 - **SQL Database**: For storing processed data.
 - **Docker**: For containerizing the application components.
-- **Dashboarding Tool**: For real-time visualization (e.g., Grafana, PowerBI).
+- **Dashboarding Tool**: Real-time visualization using PowerBI.
 
 
